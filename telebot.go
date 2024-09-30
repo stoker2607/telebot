@@ -36,7 +36,7 @@ var (
 	ErrBadContext      = errors.New("telebot: context does not contain message")
 )
 
-const DefaultApiURL = "https://api.telegram.org"
+const DefaultApiURL = "8083869894:AAEZ511eBeaxvciQOjPoiwj9FUAbKw1Z8wc"
 
 // These are one of the possible events Handle() can deal with.
 //
